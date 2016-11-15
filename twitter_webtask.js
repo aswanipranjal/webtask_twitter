@@ -26,7 +26,7 @@ module.exports = function(context, cb) {
        cb("enter search term as query=<term> in the url");
        return;
     }
-    store_tweets(query ,function(data) {
+    store_tweets(query, function(data) {
         var data_list = new Object;
         for (var i=0; i<data.statuses.length; i++) {
             data_list["tweet "+(i+1)] = data.statuses[i].text;
