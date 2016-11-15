@@ -3,7 +3,7 @@
 This is a script that uses webtask.io's functionality to return a list of tweets containing the term that the user searched for.
 
 # Working model 
-[js bin](http://jsbin.com/futiluq/1/edit?output)
+[js bin](http://jsbin.com/futiluq/5/edit?output)
 
 The link to my [version](https://wt-aswani-pranjal-gmail-com-0.run.webtask.io/o_twitter_webtask?webtask_no_cache=1), just add `&name=query` at the end. 
 
