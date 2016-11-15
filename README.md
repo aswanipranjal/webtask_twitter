@@ -16,9 +16,9 @@ Clone (`git clone`) and install (`npm install`) the dependencies.
 create a file named `data/config.json` and add the following in it:
 ```
 {
-"CONSUMER_KEY" :  "<your consumer key>"
-"CONSUMER_SECRET" : "<your consumer secret>"
-"ACCESS_TOKEN" : "<your access token>"
+"CONSUMER_KEY" :  "<your consumer key>",
+"CONSUMER_SECRET" : "<your consumer secret>",
+"ACCESS_TOKEN" : "<your access token>",
 "ACCESS_TOKEN_SECRET" : "<your access token secret>"
 }
 ```
