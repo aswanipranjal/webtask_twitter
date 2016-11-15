@@ -6,6 +6,9 @@ A working model can be found here: [js bin](http://jsbin.com/futiluq/1/edit?outp
 
 The link to my [version](https://wt-aswani-pranjal-gmail-com-0.run.webtask.io/o_twitter_webtask?webtask_no_cache=1), just add `&name=query` at the end. 
 
+
+steps to make your own:
+
 **STEP 1:**
 create a file named `data/config.json` and add the following in it:
 ```
