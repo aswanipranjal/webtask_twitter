@@ -1,0 +1,28 @@
+{
+  "name": "webtask_twitter_search",
+  "version": "1.0.0",
+  "description": "a simple webtask to search twitter",
+  "main": "out_twitter_webtask.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswanipranjal/webtask_twitter.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "aswanipranjal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aswanipranjal/webtask_twitter/issues"
+  },
+  "homepage": "https://github.com/aswanipranjal/webtask_twitter#readme",
+  "dependencies": {
+    "twitter": "^1.4.0"
+  }
+}
