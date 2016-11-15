@@ -34,3 +34,11 @@ for the term that you have to search, you will have to add the term ```&query=<s
 go to the url that is created after doing what is said in STEP 4 and 5.
 
 you will have an array of 15 tweets. Or an error if you didn't folllow the steps properly.
+
+'
+
+
+a working model can be found here: [js bin](http://jsbin.com/futiluq/1/edit?output)
+
+or the ur to my webtask: 
+
