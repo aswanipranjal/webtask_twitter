@@ -4,7 +4,7 @@ This is a script that uses webtask.io's functionality to return a list of tweets
 
 A working model can be found here: [js bin](http://jsbin.com/futiluq/1/edit?output)
 
-The link to my [version](https://wt-aswani-pranjal-gmail-com-0.run.webtask.io/o_twitter_webtask?webtask_no_cache=1), just add '&name=query' at the end. 
+The link to my [version](https://wt-aswani-pranjal-gmail-com-0.run.webtask.io/o_twitter_webtask?webtask_no_cache=1), just add `&name=query` at the end. 
 
 **STEP 1:**
 create a file named `data/config.json` and add the following in it:
