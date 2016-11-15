@@ -2,6 +2,10 @@
 
 This is a script that uses webtask.io's functionality to return a list of tweets containing the term that the user searched for.
 
+A working model can be found here: [js bin](http://jsbin.com/futiluq/1/edit?output)
+
+The link to my [version](https://wt-aswani-pranjal-gmail-com-0.run.webtask.io/o_twitter_webtask?webtask_no_cache=1), just add '&name=<query>' at the end. 
+
 **STEP 1:**
 create a file named `data/config.json` and add the following in it:
 ```
@@ -33,12 +37,5 @@ for the term that you have to search, you will have to add the term ```&query=<s
 **STEP 6:**
 go to the url that is created after doing what is said in STEP 4 and 5.
 
-you will have an array of 15 tweets. Or an error if you didn't folllow the steps properly.
-
-'
-
-
-a working model can be found here: [js bin](http://jsbin.com/futiluq/1/edit?output)
-
-or the ur to my webtask: 
+you will have an array of 15 tweets. Or an error if you didn't folllow the steps properly. 
 
