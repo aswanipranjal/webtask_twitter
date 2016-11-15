@@ -2,7 +2,7 @@
 
 This is a script that uses webtask.io's functionality to return a list of tweets containing the term that the user searched for.
 
-# A working model 
+# Working model 
 [js bin](http://jsbin.com/futiluq/1/edit?output)
 
 The link to my [version](https://wt-aswani-pranjal-gmail-com-0.run.webtask.io/o_twitter_webtask?webtask_no_cache=1), just add `&name=query` at the end. 
@@ -25,7 +25,7 @@ create a file named `data/config.json` and add the following in it:
 You can get them [here](https://apps.twitter.com/)
 
 **STEP 3:**
-Download and configure the [``Webtask cli``](https://webtask.io/cli) and [``wt bundle``](https://github.com/auth0/webtask-bundle)
+Download and configure the [``Webtask cli``](https://webtask.io/cli) and [``Webtask bundle``](https://github.com/auth0/webtask-bundle)
 
 **STEP 4:**
 Webtask.io dosen't contain `twitter` module used here, we will have to bundle it.
