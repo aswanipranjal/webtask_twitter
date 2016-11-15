@@ -19,6 +19,7 @@ create a file named `data/config.json` and add the following in it:
 "ACCESS_TOKEN_SECRET" : "<your access token secret>"
 }
 ```
+You can get them [here](https://apps.twitter.com/)
 
 **STEP 2:**
 The script requires `node-twitter` module. If you have it installed, goto STEP 3. Else, it can be dowloaded from here [Twitter](https://www.npmjs.com/package/twitter)
